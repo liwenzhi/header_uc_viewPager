@@ -16,6 +16,7 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
+ *
  * uc的Viewpager效果
  */
 public class MyActivity extends FragmentActivity {
